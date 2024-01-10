@@ -1,1 +1,4 @@
-## 끊임없이 배우는게 좋아 개발자가 되었습니다.
+## Web Developer
+### Java
+### Spring
+### React
